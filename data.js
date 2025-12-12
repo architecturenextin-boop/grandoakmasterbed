@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-master-bed",
-      "name": "MASTER BED",
+      "name": "master bed",
       "levels": [
         {
           "tileSize": 256,
